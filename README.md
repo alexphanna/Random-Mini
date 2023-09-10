@@ -1,5 +1,6 @@
 # Random Mini
 ### Bookmarklet
+Install by adding the following code snippet as the URL of a bookmark.
 ```javascript
 javascript: (() => {
     let today = new Date();
